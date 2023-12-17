@@ -83,7 +83,7 @@ img {
 }
 .card__title h1 {
     font-weight: 900;
-    margin-top: 0.5rem;
+    margin-top: 1rem;
     color: var(--DarkBlue);
 }
 .card__pg {
