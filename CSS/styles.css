@@ -68,6 +68,12 @@ img {
     max-inline-size: 45rem;
     max-block-size: 100vh;
 }
+@media (min-width: 392px) {
+    .card {
+        min-block-size: 70rem;
+
+    }
+}
 .card__info {
     padding: 3rem;
 }
@@ -75,7 +81,7 @@ img {
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
 }
-.card__title h2 {
+.card__title h1 {
     font-weight: 900;
     margin-top: 0.5rem;
     color: var(--DarkBlue);
