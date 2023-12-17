@@ -62,10 +62,10 @@ img {
 /* MAIN */
 .card {
     display: flex;
-    background-color: var(--VeryPaleBlue);
+    background-color: white;
     flex-direction: column;
     min-inline-size: 36rem;
-    max-inline-size: 40rem;
+    max-inline-size: 45rem;
     max-block-size: 100vh;
 }
 .card__info {
